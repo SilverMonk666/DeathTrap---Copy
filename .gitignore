@@ -31,8 +31,6 @@
 *.out
 *.app
 
-Config/
-
 Content/AnimStarterPack/
 
 Content/FirstPerson/
